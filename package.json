@@ -1,0 +1,34 @@
+{
+  "name": "GQL_Soccer_Teams",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "apollo-boost": "^0.4.7",
+    "cors": "^2.8.5",
+    "express-graphql": "^0.9.0",
+    "express": "^4.17.1",
+    "graphql": "^14.5.8",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.8.9",
+    "nodemon": "^2.0.2",
+    "react-apollo": "^3.1.3",
+    "react-dom": "^16.12.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/estivensal7/GQL_Soccer_Teams.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/estivensal7/GQL_Soccer_Teams/issues"
+  },
+  "homepage": "https://github.com/estivensal7/GQL_Soccer_Teams#readme"
+}
